@@ -102,15 +102,15 @@ html[data-theme="dark"] {
 </style>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 1.5rem 0;">
-  <div style="background: #4A5A3F; border-radius: 8px; padding: 12px;">
+  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #FFFFFF;">Background</p>
     <p style="font-size: 11px; margin: 0; color: #E8EDE4;">BSc (Computer Science), Legum Baccalaureus (LLB), MA (Public Policy and Governance)</p>
   </div>
-  <div style="background: #6B7F5F; border-radius: 8px; padding: 12px;">
+  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #FFFFFF;">Research</p>
     <p style="font-size: 11px; margin: 0; color: #EDF1E9;">PhD, GenAI ownership (HCI)</p>
   </div>
-  <div style="background: #A8BC9C; border-radius: 8px; padding: 12px;">
+  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Law</p>
     <p style="font-size: 11px; margin: 0; color: #46542E;">150+ clients, IP prosecution</p>
   </div>
