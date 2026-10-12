@@ -19,6 +19,48 @@ social: true
 
 <style>
 .post {
+  position: relative;
+}
+.post-header {
+  padding-left: 110px;
+  min-height: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.post .profile {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  margin: 0;
+}
+.post .profile img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.post .profile .more-info {
+  display: none;
+}
+@media (max-width: 575px) {
+  .post-header {
+    padding-left: 0;
+  }
+  .post .profile {
+    position: static;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .post .profile img {
+    width: 120px;
+    height: 120px;
+  }
+}
+  
+.post {
   background: #FAF9F5;
   border: 1px solid #E3DED0;
   border-radius: 16px;
