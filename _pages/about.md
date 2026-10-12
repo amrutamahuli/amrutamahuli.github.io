@@ -78,7 +78,6 @@ Studying ownership and governance in generative AI systems — grounded in law, 
     <p style="font-size: 11px; margin: 0; color: #085041;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
   </div>
 </div>
----
 
 I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
 
