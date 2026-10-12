@@ -115,7 +115,7 @@ html[data-theme="dark"] {
     <p style="font-size: 11px; margin: 0; color: #0C447C;">G20 (MoLE), Parliament</p>
   </div>
   <div style="background: #E1F5EE; border: 2px solid #5DCAA5; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #04342C;">Origins</p>
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #04342C;">Background</p>
     <p style="font-size: 11px; margin: 0; color: #085041;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
   </div>
 </div>
