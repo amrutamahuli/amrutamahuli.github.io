@@ -102,11 +102,11 @@ html[data-theme="dark"] {
 </style>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 1.5rem 0;">
-  <div style="background: #4A5A3F; border-radius: 8px; padding: 12px;">
+  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
   <p style="font-size: 13px; font-weight: 600; margin: 0 0 4px; color: #FFFFFF;">Background</p>
-  <p style="font-size: 11px; margin: 0; color: #E8EDE4;">BSc (Computer Science)</p>
-  <p style="font-size: 11px; margin: 0; color: #E8EDE4;">LLB</p>
-  <p style="font-size: 11px; margin: 0; color: #E8EDE4;">MA (Public Policy and Governance)</p>
+  <p style="font-size: 11px; margin: 0; color: #46542E;">BSc (Computer Science)</p>
+  <p style="font-size: 11px; margin: 0; color: #46542E;">LLB</p>
+  <p style="font-size: 11px; margin: 0; color: #46542E;">MA (Public Policy and Governance)</p>
 </div>
   <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
     <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #FFFFFF;">Research</p>
