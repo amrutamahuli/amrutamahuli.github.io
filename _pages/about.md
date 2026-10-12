@@ -27,7 +27,6 @@ social: true
   flex-direction: column;
   justify-content: center;
   margin-bottom: 1rem;
-  position: relative;
 }
 .post .profile {
   position: absolute;
