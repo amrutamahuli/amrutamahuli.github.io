@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /experience/
+permalink: /education & experience/
 title: education & experience
 nav: true
 nav_order: 1
