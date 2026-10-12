@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: service & teaching
-nav: true
+nav: false
 nav_order: 3
 ---
 
