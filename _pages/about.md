@@ -19,20 +19,13 @@ social: true
 
 <style>
  
-.post-header {
-  padding-left: 170px;
-  padding-top: 1.5rem;
-  min-height: 140px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin-bottom: 1rem;
+.post {
+  position: relative;
 }
 .post .profile {
   position: absolute;
-  top: 50%;
-  left: 20px;
-  transform: translateY(-50%);
+  top: 2rem;
+  left: 2rem;
   width: 130px;
   margin: 0;
 }
@@ -45,11 +38,14 @@ social: true
 .post .profile .more-info {
   display: none;
 }
-.post-title {
-  font-size: 1.9rem;
-}
-.post .desc {
-  font-size: 0.95rem;
+.post-header {
+  padding-left: 170px;
+  padding-top: 0.5rem;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1rem;
 }
 @media (max-width: 575px) {
   .post-header {
@@ -60,7 +56,6 @@ social: true
     position: static;
     width: 100%;
     margin-bottom: 1rem;
-    transform: none;
   }
   .post .profile img {
     width: 120px;
