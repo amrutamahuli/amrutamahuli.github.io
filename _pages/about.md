@@ -1,22 +1,3 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: PhD researcher, Ruhr University Bochum & Max Planck Institute for Security and Privacy (MPI-SP)
-
-profile:
-  align: left
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Max Planck Institute for Security and Privacy</p>
-    <p>Bochum, Germany</p>
-
-news: true
-selected_papers: false
-social: true
----
-
 <style>
 .post {
   background: #FAF9F5;
@@ -55,6 +36,27 @@ html[data-theme="dark"] {
   opacity: 1;
 }
 </style>
+
+
+---
+layout: about
+title: about
+permalink: /
+subtitle: PhD researcher, Ruhr University Bochum & Max Planck Institute for Security and Privacy (MPI-SP)
+
+profile:
+  align: left
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>Max Planck Institute for Security and Privacy</p>
+    <p>Bochum, Germany</p>
+
+news: true
+selected_papers: false
+social: true
+---
+
 
 <blockquote class="tagline">
 Studying ownership and governance in generative AI systems — grounded in law, policy, and platform research.
