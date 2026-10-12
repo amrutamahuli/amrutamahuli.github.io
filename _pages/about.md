@@ -40,7 +40,7 @@ social: true
   width: 90px;
   height: 90px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 75%;
 }
 .post .profile .more-info {
   display: none;
