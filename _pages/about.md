@@ -18,9 +18,6 @@ social: true
 ---
 
 <style>
-.post {
-  position: relative;
-}
 .post-header {
   padding-left: 170px;
   padding-top: 1.5rem;
