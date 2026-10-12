@@ -18,6 +18,9 @@ social: true
 ---
 
 <style>
+  .post {
+  position: relative;
+}
 .post-header {
   padding-left: 170px;
   padding-top: 1.5rem;
@@ -26,7 +29,6 @@ social: true
   flex-direction: column;
   justify-content: center;
   margin-bottom: 1rem;
-  position: relative;
 }
 .post .profile {
   position: absolute;
