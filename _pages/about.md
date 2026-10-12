@@ -101,22 +101,22 @@ html[data-theme="dark"] {
 }
 </style>
 
-<div style="display: grid; grid-template-columns: 1.3fr 1fr 1fr 1fr; gap: 10px; margin: 1.5rem 0;">
-  <div style="background: #EEEDFE; border: 2px solid #7F77DD; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #26215C;">Research</p>
-    <p style="font-size: 11px; margin: 0; color: #3C3489;">PhD, GenAI ownership (HCI)</p>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 1.5rem 0;">
+  <div style="background: #4A5A3F; border-radius: 8px; padding: 12px;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #FFFFFF;">Background</p>
+    <p style="font-size: 11px; margin: 0; color: #E8EDE4;">BSc (Computer Science), LLB, MA (Public Policy and Governance)</p>
   </div>
-  <div style="background: #FAECE7; border: 2px solid #F0997B; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #4A1B0C;">Law</p>
-    <p style="font-size: 11px; margin: 0; color: #712B13;">150+ clients, IP prosecution</p>
+  <div style="background: #6B7F5F; border-radius: 8px; padding: 12px;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #FFFFFF;">Research</p>
+    <p style="font-size: 11px; margin: 0; color: #EDF1E9;">PhD, GenAI ownership (HCI)</p>
   </div>
-  <div style="background: #E6F1FB; border: 2px solid #85B7EB; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #042C53;">Policy</p>
-    <p style="font-size: 11px; margin: 0; color: #0C447C;">G20 (MoLE), Parliament</p>
+  <div style="background: #A8BC9C; border-radius: 8px; padding: 12px;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Law</p>
+    <p style="font-size: 11px; margin: 0; color: #46542E;">150+ clients, IP prosecution</p>
   </div>
-  <div style="background: #E1F5EE; border: 2px solid #5DCAA5; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #04342C;">Background</p>
-    <p style="font-size: 11px; margin: 0; color: #085041;">BSc (Computer Science), Legum Baccalaureus (LLB), MA (Public Policy and Governance)</p>
+  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
+    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Policy</p>
+    <p style="font-size: 11px; margin: 0; color: #46542E;">G20 (MoLE), Parliament</p>
   </div>
 </div>
 I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
