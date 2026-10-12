@@ -22,37 +22,48 @@ social: true
   position: relative;
 }
 .post-header {
-  padding-left: 110px;
-  min-height: 90px;
+  padding-left: 170px;
+  padding-top: 1.5rem;
+  min-height: 140px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-bottom: 1rem;
+  position: relative;
 }
 .post .profile {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 90px;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  width: 130px;
   margin: 0;
 }
 .post .profile img {
-  width: 90px;
-  height: 90px;
+  width: 130px;
+  height: 130px;
   object-fit: cover;
-  border-radius: 75%;
+  border-radius: 50%;
 }
 .post .profile .more-info {
   display: none;
 }
+.post-title {
+  font-size: 1.9rem;
+}
+.post .desc {
+  font-size: 0.95rem;
+}
 @media (max-width: 575px) {
   .post-header {
     padding-left: 0;
+    padding-top: 0;
   }
   .post .profile {
     position: static;
     width: 100%;
     margin-bottom: 1rem;
+    transform: none;
   }
   .post .profile img {
     width: 120px;
