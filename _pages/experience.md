@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: education & experience
 nav: true
 nav_order: 1
 ---
