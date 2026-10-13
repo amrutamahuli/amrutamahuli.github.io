@@ -3,20 +3,34 @@ layout: page
 permalink: /service/
 title: service & teaching
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 {% include site-colors.html %}
-## Teaching
+<style>
+.tag-service { background: #E6F1FB; color: #0C447C; }
+.tag-teaching { background: #FAECE7; color: #712B13; }
+</style>
 
-**Teaching Assistant**, *Privacy, Data Governance, and Usability* (MSc) — Ruhr University Bochum, Faculty of Computer Science · Winter 2025–26
+<p class="contrib-section-title">Service</p>
+{% assign sorted_service = site.data.contributions.service | sort: 'year' | reverse %}
+{% for item in sorted_service %}
+<div class="contrib-card">
+  <div>
+    <p class="contrib-title">{{ item.title }}</p>
+    {% if item.venue != "" %}<p class="contrib-venue">{{ item.venue }}</p>{% endif %}
+  </div>
+  <span class="contrib-tag tag-service">{{ item.type }} &middot; {{ item.year }}</span>
+</div>
+{% endfor %}
 
-## Service
-
-- Reviewer, Institutional Ethics Review Board, MPI-SP · 2025–Present
-- Ethics reviewer, ICML · 2026
-
-## Policy Contributions
-
-- Parliamentary deposition before the Standing Committee for Communications and Information Technology on algorithmic control and data privacy in the gig economy · Aug 2022
-- Co-author, comments to the Draft Code on Social Security (Telangana) Rules, submitted to the Commissioner of Labour, Telangana · Feb 2022
-- Co-author, comments to the Code on Social Security Bill, 2019, submitted to the Ministry of Labour and Employment · Oct 2019
+<p class="contrib-section-title">Teaching</p>
+{% assign sorted_teaching = site.data.contributions.teaching | sort: 'year' | reverse %}
+{% for item in sorted_teaching %}
+<div class="contrib-card">
+  <div>
+    <p class="contrib-title">{{ item.title }}</p>
+    <p class="contrib-venue">{{ item.venue }}</p>
+  </div>
+  <span class="contrib-tag tag-teaching">{{ item.type }} &middot; {{ item.year }}</span>
+</div>
+{% endfor %}
