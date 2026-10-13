@@ -174,7 +174,7 @@ html[data-theme="dark"] {
   </div>
   <div class="cred-box">
     <p class="cred-title">Law</p>
-    <p class="cred-desc">150+ clients, IP prosecution</p>
+    <p class="cred-desc">150+ clients, IP (trademarks, copyright and industrial design) prosecution, contract drafting</p>
   </div>
   <div class="cred-box">
     <p class="cred-title">Policy</p>
