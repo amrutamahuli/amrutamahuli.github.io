@@ -178,7 +178,7 @@ html[data-theme="dark"] {
   </div>
   <div class="cred-box">
     <p class="cred-title">Policy</p>
-    <p class="cred-desc">G20 (MoLE), Parliament</p>
+    <p class="cred-desc">G20 subject matter expert, parliamentary briefing, policy submissions</p>
   </div>
 </div>
 
