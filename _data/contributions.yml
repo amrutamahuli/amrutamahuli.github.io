@@ -91,25 +91,25 @@ writing:
     year: 2017
 
 service:
-  - title: "Reviewer, Institutional Ethics Review Board"
-    venue: "Max Planck Institute for Security and Privacy"
+  - title: "Member, Max Planck Law | Tech | Society Initiative"
+    venue: "2027 onwards"
     type: "Service"
-    year: 2025
+    year: 2027
   - title: "Ethics Reviewer"
     venue: "ICML '26"
     type: "Service"
     year: 2026
-  - title: "Member, Max Planck Law | Tech | Society Initiative"
-    venue: ""
+  - title: "Reviewer, Institutional Ethics Review Board"
+    venue: "Max Planck Institute for Security and Privacy · 2025–Present"
     type: "Service"
-    year: 2027
+    year: 2025
     
 teaching:
-  - title: "Teaching Assistant, Privacy, Data Governance, and Usability (MSc)"
-    venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2025–26"
-    type: "Teaching"
-    year: 2025
   - title: "Teaching Assistant, Technology and Public Interest (MSc)"
     venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2026–27"
     type: "Teaching"
     year: 2026
+  - title: "Teaching Assistant, Privacy, Data Governance, and Usability (MSc)"
+    venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2025–26"
+    type: "Teaching"
+    year: 2025
