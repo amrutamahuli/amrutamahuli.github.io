@@ -30,7 +30,30 @@ html[data-theme="dark"] {
   opacity: 1;
 }
 </style> <style>
- @media (max-width: 600px) {
+.cred-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 1.5rem 0;
+}
+.cred-box {
+  background: #DCE5D6;
+  border-radius: 8px;
+  padding: 12px;
+}
+.cred-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: #2E3A28;
+}
+.cred-desc {
+  font-size: 11px;
+  margin: 0;
+  color: #46542E;
+}
+
+@media (max-width: 600px) {
   .post {
     padding: 1.25rem !important;
   }
@@ -44,18 +67,24 @@ html[data-theme="dark"] {
     font-size: 0.95rem !important;
     padding-left: 0.75rem;
   }
+  .cred-title {
+    font-size: 12.5px;
+  }
+  .cred-desc {
+    font-size: 10.5px;
+  }
 }
 
 @media (max-width: 480px) {
-  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
-    grid-template-columns: 1fr 1fr !important;
-    gap: 8px !important;
+  .cred-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
   }
 }
 
 @media (max-width: 360px) {
-  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
-    grid-template-columns: 1fr !important;
+  .cred-grid {
+    grid-template-columns: 1fr;
   }
 }
 .post {
@@ -138,7 +167,7 @@ html[data-theme="dark"] {
 .social .contact-icons a:hover {
   opacity: 1;
 }
-</style> <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 1.5rem 0;"> <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;"> <p style="font-size: 13px; font-weight: 600; margin: 0 0 4px; color: #2E3A28;">Background</p> <p style="font-size: 11px; margin: 0; color: #46542E;">BSc (Computer Science)</p> <p style="font-size: 11px; margin: 0; color: #46542E;">LLB</p> <p style="font-size: 11px; margin: 0; color: #46542E;">MA (Public Policy and Governance)</p> </div> <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;"> <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Research</p> <p style="font-size: 11px; margin: 0; color: #46542E;">PhD, GenAI ownership (HCI)</p> </div> <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;"> <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Law</p> <p style="font-size: 11px; margin: 0; color: #46542E;">150+ clients, IP prosecution</p> </div> <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;"> <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Policy</p> <p style="font-size: 11px; margin: 0; color: #46542E;">G20 (MoLE), Parliament</p> </div> </div> <p>I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by <a href="https://asiabiega.github.io/" rel="external nofollow noopener" target="_blank">Asia Biega</a> in the Responsible Computing group at MPI-SP.</p> <p>My path here wasn’t linear — it started in computer science, then moved through IP law, technology policy, and platform-economy research before returning to technical research. I’ve prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India’s G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal questions, but as one with real, on-the-ground consequences.</p> <p>When I’m not deep in a legal-tech rabbit hole, you’ll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting, or knitting.</p> <hr> </div> <div class="social"> <div class="contact-icons"> <a href="/assets/pdf/CV.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> <a href="mailto:amruta.mahuli@mpi-sp.org" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.linkedin.com/in/amruta-mahuli-5a200196" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> </div> <div class="contact-note">Connect</div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Amruta U. Mahul. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+</style> <div class="cred-grid"> <div class="cred-box"> <p class="cred-title">Background</p> <p class="cred-desc">BSc (Computer Science)</p> <p class="cred-desc">LLB</p> <p class="cred-desc">MA (Public Policy and Governance)</p> </div> <div class="cred-box"> <p class="cred-title">Research</p> <p class="cred-desc">PhD, GenAI ownership (HCI)</p> </div> <div class="cred-box"> <p class="cred-title">Law</p> <p class="cred-desc">150+ clients, IP prosecution</p> </div> <div class="cred-box"> <p class="cred-title">Policy</p> <p class="cred-desc">G20 (MoLE), Parliament</p> </div> </div> <p>I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by <a href="https://asiabiega.github.io/" rel="external nofollow noopener" target="_blank">Asia Biega</a> in the Responsible Computing group at MPI-SP.</p> <p>My path here wasn’t linear — it started in computer science, then moved through IP law, technology policy, and platform-economy research before returning to technical research. I’ve prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India’s G20 presidency in 2023, and participated in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. That grounding shapes how I approach GenAI governance now — not as an abstract doctrinal questions, but as one with real, on-the-ground consequences.</p> <p>When I’m not deep in a legal-tech rabbit hole, you’ll usually find me in the gym lifting weights, swimming, kickboxing, hiking, crocheting, or knitting.</p> <hr> </div> <div class="social"> <div class="contact-icons"> <a href="/assets/pdf/CV.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> <a href="mailto:amruta.mahuli@mpi-sp.org" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://www.linkedin.com/in/amruta-mahuli-5a200196" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> </div> <div class="contact-note">Connect</div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Amruta U. Mahul. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
