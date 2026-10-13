@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
-
+{% include site-colors.html %}
 <style>
 .contrib-section-title {
   font-family: Georgia, serif;
