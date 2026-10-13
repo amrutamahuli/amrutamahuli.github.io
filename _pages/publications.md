@@ -7,6 +7,41 @@ nav_order: 2
 ---
 {% include site-colors.html %}
 <style>
+.publications h2 {
+  font-family: Georgia, serif;
+  font-size: 1.2rem;
+  color: #2E3A28;
+  margin: 1.5rem 0 0.9rem;
+  border-bottom: 1px solid #E3DED0;
+  padding-bottom: 0.4rem;
+}
+.publications ol.bibliography {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.publications ol.bibliography li {
+  background: #FFFFFF;
+  border: 1px solid #E3DED0;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+}
+.publications ol.bibliography li .title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #2E3A28;
+}
+.publications ol.bibliography li .author {
+  font-size: 11.5px;
+  color: #6B7560;
+}
+.publications ol.bibliography li .periodical {
+  font-size: 11.5px;
+  color: #6B7560;
+  font-style: italic;
+}
+  
 .contrib-section-title {
   font-family: Georgia, serif;
   font-size: 1.2rem;
