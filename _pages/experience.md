@@ -95,7 +95,7 @@ nav_order: 1
     <p class="timeline-title">MA, Public Policy and Governance — Azim Premji University</p>
     <p class="timeline-date">Jul 2019 – Nov 2021</p>
   </div>
-  <p class="timeline-sub">Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false">Dr. Sitharamam Kakarala</a> · Thesis: <em>To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles</em></p>
+  <p class="timeline-sub"> Thesis: <em>To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles</em> Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false">Dr. Sitharamam Kakarala</a> </p>
   <p class="timeline-modules">Relevant modules: Technology and Human Rights (Law, Policy, and Ethics) · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
   <p class="timeline-relevance">First formal training in research design and causal methods — the methodological backbone I now bring to HCI research.</p>
 </div>
