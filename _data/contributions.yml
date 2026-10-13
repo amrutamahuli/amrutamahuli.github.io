@@ -89,3 +89,27 @@ writing:
     url: "https://www.khuranaandkhurana.com/2017/08/26/tattoos-as-intellectual-property-an-indian-perspective/"
     type: "Writing"
     year: 2017
+
+service:
+  - title: "Reviewer, Institutional Ethics Review Board"
+    venue: "Max Planck Institute for Security and Privacy"
+    type: "Service"
+    year: 2025
+  - title: "Ethics Reviewer"
+    venue: "ICML '26"
+    type: "Service"
+    year: 2026
+  - title: "Member, Max Planck Law | Tech | Society Initiative"
+    venue: ""
+    type: "Service"
+    year: 2027
+    
+teaching:
+  - title: "Teaching Assistant, Privacy, Data Governance, and Usability (MSc)"
+    venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2025–26"
+    type: "Teaching"
+    year: 2025
+  - title: "Teaching Assistant, Technology and Public Interest (MSc)"
+    venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2026–27"
+    type: "Teaching"
+    year: 2026
