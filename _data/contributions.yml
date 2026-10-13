@@ -1,3 +1,50 @@
+publications:
+  - title: "Governance of Generative AI in Creative Work: Consent, Credit, Compensation, and Beyond"
+    authors: "Lin Kyi, <strong>Amruta Mahuli</strong>, M Six Silberman, Reuben Binns, Jun Zhao, Asia J. Biega"
+    venue: "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+    type: "Conference Proceeding"
+    year: 2025
+  - title: "Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review"
+    authors: "Lin Kyi, <strong>Amruta Mahuli</strong>, Asia J. Biega"
+    venue: "2nd Workshop on Generative AI and Law (GenLaw '24), ICML; also presented at the Mapping and Governing the Online World (MGOW) workshop, June 2024"
+    type: "Workshop Paper"
+    year: 2024
+  - title: "Identification of Strategic International Partnerships for Emergent Global Artificial Intelligence Policies"
+    authors: "<strong>Amruta Mahuli</strong>, Sumit Kumar, Suryesh K. Namdeo"
+    venue: "Cambridge Journal of Science and Policy"
+    type: "Journal"
+    year: 2023
+  - title: "Fairwork India Ratings: Labour Standards in the Platform Economy"
+    authors: "Balaji Parthasarathy, Janaki Srinivasan, Mounika Neerukonda, <strong>Amruta Mahuli</strong>, Bilahari M, Damni Kain, Pradyumna Taduri, Funda Ustek Spilda, Kavita Dattani, Mark Graham"
+    venue: "Fairwork"
+    type: "Report"
+    year: 2022
+  - title: "Fairwork India Ratings: Labour Standards in the Platform Economy"
+    authors: "Balaji Parthasarathy, Janaki Srinivasan, Mounika Neerukonda, Pradyumna Taduri, <strong>Amruta Mahuli</strong>, Kanikka Sersia, Funda Ustek Spilda, Mark Graham"
+    venue: "Fairwork"
+    type: "Report"
+    year: 2021
+  - title: "Dealing with John Doe Orders in India"
+    authors: "<strong>Amruta Mahuli</strong>"
+    venue: "World IP Review"
+    type: "In Print"
+    year: 2017
+  - title: "Governing Generative AI in the Workplace: A View from Computer Science and Law"
+    authors: "Lin Kyi, M Six Silberman, <strong>Amruta Mahuli</strong>, Asia J. Biega"
+    venue: "European Trade Union Institute Book, Vol. II: Regulating AI Through Collective Bargaining: Key Issues"
+    type: "Book Chapter (Expected)"
+    year: 2027
+  - title: "Social Value Jurisprudence in Generative AI: What Should Be Protected"
+    authors: "<strong>Amruta Mahuli</strong>, Lin Kyi, Asia J. Biega"
+    venue: "Under review, CHI '27"
+    type: "Under Review"
+    year: 2027
+  - title: "Copyright at the Crossroads: Anticipating Stratification and Doctrinal Crisis from Generative AI Output Protection"
+    authors: "<strong>Amruta Mahuli</strong>, Lin Kyi, Wisdom Obinna, Asia J. Biega"
+    venue: "Under review, CHI '27"
+    type: "Under Review"
+    year: 2027
+
 talks:
   - title: "Platform Work as Disguised Employment"
     venue: "Annual Conference on South Asia, Centre for South Asia, UW-Madison"
