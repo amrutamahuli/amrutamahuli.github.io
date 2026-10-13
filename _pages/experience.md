@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: education & experience
 nav: true
 nav_order: 1
 ---
@@ -133,7 +133,7 @@ nav_order: 1
 </div>
 
 <div class="timeline-item has-line">
-  <div class="timeline-dot" style="background: #6B7F5F;"></div>
+  <div class="timeline-dot" style="background: #5B7250;"></div>
   <div class="timeline-header">
     <p class="timeline-title">Senior Project Consultant — Ernst &amp; Young LLP</p>
     <p class="timeline-date">Jan – Jun 2023</p>
@@ -143,7 +143,7 @@ nav_order: 1
 </div>
 
 <div class="timeline-item has-line">
-  <div class="timeline-dot" style="background: #A8BC9C;"></div>
+  <div class="timeline-dot" style="background: #6B7F5F;"></div>
   <div class="timeline-header">
     <p class="timeline-title">External Consultant — Fairwork Project (OII &amp; IIITB)</p>
     <p class="timeline-date">Jul 2021 – Jan 2023</p>
@@ -153,13 +153,42 @@ nav_order: 1
 </div>
 
 <div class="timeline-item has-line">
-  <div class="timeline-dot" style="background: #C4D4B8;"></div>
+  <div class="timeline-dot" style="background: #86A077;"></div>
   <div class="timeline-header">
     <p class="timeline-title">Consultant Policy Researcher — DST Centre for Policy Research, IISc</p>
     <p class="timeline-date">Jun 2021 – Jun 2022</p>
   </div>
   <p class="timeline-sub">Mixed-methods research on STI diplomacy and AI in foreign ministry operations, using conceptual modeling, Twitter text analysis, and R for data visualization.</p>
   <p class="timeline-relevance">First hands-on computational analysis work — directly technical skills I still use.</p>
+</div>
+
+<div class="timeline-item has-line">
+  <div class="timeline-dot" style="background: #A8BC9C;"></div>
+  <div class="timeline-header">
+    <p class="timeline-title">Research Intern — LEAD at Krea University</p>
+    <p class="timeline-date">Jul – Sep 2020</p>
+  </div>
+  <p class="timeline-sub">Drafted a police training manual on gender-based violence, implemented across 200+ police stations in Bihar, as part of an RCT testing the efficacy of a novel police program.</p>
+  <p class="timeline-relevance">A policy document that moved directly from draft to real-world implementation at scale — early proof that research can change practice, not just inform it.</p>
+</div>
+
+<div class="timeline-item has-line">
+  <div class="timeline-dot" style="background: #BBCBAE;"></div>
+  <div class="timeline-header">
+    <p class="timeline-title">Research Intern — Centre for Internet and Society</p>
+    <p class="timeline-date">Sep 2019 – Sep 2020</p>
+  </div>
+  <p class="timeline-sub">Conducted and analyzed interviews with platform executives to draft a structured observational guide covering 50+ platforms' business models and adherence to labor laws for women domestic and care workers.</p>
+  <p class="timeline-relevance">Early experience in executive-level qualitative interviewing and structured comparative analysis across platforms.</p>
+</div>
+
+<div class="timeline-item has-line">
+  <div class="timeline-dot" style="background: #C4D4B8;"></div>
+  <div class="timeline-header">
+    <p class="timeline-title">Legal Associate — Inttl Advocare</p>
+    <p class="timeline-date">Dec 2018 – Jun 2019</p>
+  </div>
+  <p class="timeline-sub">Managed the Trademark Prosecution department at the Mumbai branch, handling a collective IP portfolio of 50+ clients; assisted in civil litigation, litigation drafting, caveat filings, and due diligence.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -172,8 +201,26 @@ nav_order: 1
   <p class="timeline-relevance">Years of hands-on IP prosecution are the direct practitioner grounding behind my current research on ownership frameworks in generative AI.</p>
 </div>
 
-<div class="timeline-item">
+<div class="timeline-item has-line">
+  <div class="timeline-dot" style="background: #E3EADC;"></div>
+  <div class="timeline-header">
+    <p class="timeline-title">Intern — Chambers of Adv. Vaishali Bhagwat</p>
+    <p class="timeline-date">Jun – Sep 2015</p>
+  </div>
+  <p class="timeline-sub">Assisted on cyber law matters, developed training materials for cyber law awareness; vetted and drafted anti–sexual harassment workplace policies and related training materials.</p>
+</div>
+
+<div class="timeline-item has-line">
   <div class="timeline-dot" style="background: #EDF1E9;"></div>
+  <div class="timeline-header">
+    <p class="timeline-title">Intern — Legalance</p>
+    <p class="timeline-date">Jun 2014 – May 2015</p>
+  </div>
+  <p class="timeline-sub">Drafted and vetted commercial agreements, legal notices, and MoUs; supported litigation drafting; researched Intellectual Property, Criminal, Contract, and Tort law.</p>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-dot" style="background: #F2F5EE;"></div>
   <div class="timeline-header">
     <p class="timeline-title">Analyst — Eclerx Services Limited</p>
     <p class="timeline-date">May 2012 – Aug 2013</p>
