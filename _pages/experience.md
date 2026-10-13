@@ -86,7 +86,7 @@ nav_order: 1
     <p class="timeline-date">Nov 2023 – Present</p>
   </div>
   <p class="timeline-sub">Responsible Computing Group, Max Planck Institute for Security and Privacy · Supervisor: <a href="https://asiabiega.github.io/">Asia Biega</a></p>
-  <p class="timeline-relevance">Research: ownership and governance frameworks in GenAI systems.</p>
+  <p class="timeline-relevance">Research: Ownership and governance frameworks in GenAI systems.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -95,8 +95,8 @@ nav_order: 1
     <p class="timeline-title">MA, Public Policy and Governance — Azim Premji University</p>
     <p class="timeline-date">Jul 2019 – Nov 2021</p>
   </div>
-  <p class="timeline-sub"> Thesis: <em>To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles. </em> Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false"> Dr. Sitharamam Kakarala</a> </p>
-  <p class="timeline-modules">Relevant modules: Technology and Human Rights (Law, Policy, and Ethics) · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
+  <p class="timeline-sub"> Thesis:  To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles. Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false"> Dr. Sitharamam Kakarala</a> </p>
+  <p class="timeline-modules"> Relevant modules: Technology and Human Rights (Law, Policy, and Ethics) · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -106,7 +106,7 @@ nav_order: 1
     <p class="timeline-date">Jun 2013 – Apr 2016</p>
   </div>
   <p class="timeline-modules">Relevant modules: Law of Contracts · Jurisprudence · Legal Writing · Drafting, Pleading, and Conveyancing</p>
-  <p class="timeline-relevance">Volunteer project at the National AIDS Research Institute (transcribing interviews on willingness to share Aadhaar with healthcare providers) was my first direct encounter with privacy and consent as a lived, not just doctrinal, problem.</p>
+  <p class="timeline-relevance"> Volunteer project: Transcribing interviews on willingness to share Aadhaar with healthcare providers at the National AIDS Research Institute </p>
   <p class="timeline-sub">Enrolled in the Bar Council of Maharashtra &amp; Goa</p>
 </div>
 
@@ -117,7 +117,7 @@ nav_order: 1
     <p class="timeline-date">Jun 2009 – Apr 2012</p>
   </div>
   <p class="timeline-modules">Relevant modules: Introduction to Programming · Programming in C, C++, and Java · Statistical Methods</p>
-   <p class="timeline-sub">1st place, X-Pro 2012 — location-based service application</p>
+   <p class="timeline-sub"> X-Pro 2012: Developed a location-based service application. Won 1st place. — </p>
 </div>
 
 <p class="timeline-section-title">Industry Experience</p>
@@ -137,7 +137,7 @@ nav_order: 1
     <p class="timeline-date">Jan – Jun 2023</p>
   </div>
   <p class="timeline-sub">Worked as a subject matter expert on gig work in the Employment Working Group at the G20 Summit 2023; co-drafted outcome documents and supported delegate negotiations.</p>
-  <p class="timeline-relevance"> Gained direct exposure to how platform governance questions get negotiated into actual multilateral policy text.</p>
+  <p class="timeline-relevance"> Gained direct exposure to how platform governance questions get negotiated into actual multilateral policy text. </p>
 </div>
 
 <div class="timeline-item has-line">
@@ -147,7 +147,7 @@ nav_order: 1
     <p class="timeline-date">Jul 2021 – Jan 2023</p>
   </div>
   <p class="timeline-sub">Analyzed 120+ stakeholder interviews across the platform economy; co-authored the Fairwork Y3/Y4 India reports; vetted worker agreements with Swiggy, Zomato, UC, and Flipkart.</p>
-  <p class="timeline-relevance"> Used semi-structured interviews and thematic analysis methods to conduct a large-scale qualitative interview study.</p>
+  <p class="timeline-relevance"> Used semi-structured interviews and thematic analysis methods to conduct a large-scale qualitative interview study. </p>
 </div>
 
 <div class="timeline-item has-line">
