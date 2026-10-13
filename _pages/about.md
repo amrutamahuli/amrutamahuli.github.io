@@ -186,6 +186,6 @@ My work has moved from asking whether copyright is the right framework for GenAI
 
 I started out in computer science, then spent several years in IP law, technology policy, and platform-economy research before this PhD, which brings it all together. Along the way, I’ve prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India’s G20 presidency in 2023, and took part in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. These experiences are part of how I think about GenAI governance now. It’s not just a doctrinal question for me, but one with real consequences for the people and industries it touches.
 
-Outside of technolegal rabbit holes, I live a surprisingly active life: gym sessions, kickboxing, swimming, and hiking on one end, crocheting and knitting on the other. I contain multitudes, apparently, and most of them involve either sweat or yarn. I also like to read and enjoy listening to all kinds of music.
+Outside of techno-legal rabbit holes, I live a surprisingly active life: gym sessions, kickboxing, swimming, and hiking on one end, crocheting and knitting on the other. I contain multitudes, apparently, and most of them involve either sweat or yarn. I also like to read and enjoy listening to all kinds of music.
 
 ---
