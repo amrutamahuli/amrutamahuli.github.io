@@ -181,7 +181,8 @@ html[data-theme="dark"] {
     <p class="cred-desc">G20 (MoLE), Parliament</p>
   </div>
 </div>
-I study how ownership frameworks manifest in generative AI systems, using a human-computer interaction (HCI) lens to understand how ownership and liability play out in practice. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
+
+My work has moved from asking whether copyright is the right framework for GenAI output to a broader set of questions about ownership, particularly asking how it is distributed, perceived, and governed across human, AI-assisted, and AI-generated creative work. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
 
 I started out in computer science, then spent several years in IP law, technology policy, and platform-economy research before this PhD, which brings it all together. Along the way, I’ve prosecuted IP matters for 150+ clients, advised the Ministry of Labour and Employment during India’s G20 presidency in 2023, and took part in a Parliamentary deposition on algorithmic control and data privacy in the gig economy. These experiences are part of how I think about GenAI governance now. It’s not just a doctrinal question for me, but one with real consequences for the people and industries it touches.
 
