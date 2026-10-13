@@ -86,7 +86,7 @@ nav_order: 1
     <p class="timeline-date">Nov 2023 – Present</p>
   </div>
   <p class="timeline-sub">Responsible Computing Group, Max Planck Institute for Security and Privacy · Supervisor: <a href="https://asiabiega.github.io/">Asia Biega</a></p>
-  <p class="timeline-relevance">Research: Ownership and governance frameworks in GenAI systems.</p>
+  <p class="timeline-sub"> Research: Ownership and governance frameworks in GenAI systems.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -106,7 +106,7 @@ nav_order: 1
     <p class="timeline-date">Jun 2013 – Apr 2016</p>
   </div>
   <p class="timeline-modules">Relevant modules: Law of Contracts · Jurisprudence · Legal Writing · Drafting, Pleading, and Conveyancing</p>
-  <p class="timeline-relevance"> Volunteer project: Transcribing interviews on willingness to share Aadhaar with healthcare providers at the National AIDS Research Institute </p>
+  <p class="timeline-sub"> Volunteer project: Transcribing interviews on willingness to share Aadhaar with healthcare providers at the National AIDS Research Institute </p>
   <p class="timeline-sub">Enrolled in the Bar Council of Maharashtra &amp; Goa</p>
 </div>
 
