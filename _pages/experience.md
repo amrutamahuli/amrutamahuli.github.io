@@ -118,7 +118,7 @@ nav_order: 1
     <p class="timeline-date">Jun 2009 – Apr 2012</p>
   </div>
   <p class="timeline-modules">Relevant modules: Introduction to Programming · Programming in C, C++, and Java · Statistical Methods</p>
-   <p class="timeline-sub"> X-Pro 2012: Developed a location-based service application. Won 1st place. — </p>
+   <p class="timeline-sub"> X-Pro 2012: Developed a location-based service application. Won 1st place. </p>
 </div>
 
 <p class="timeline-section-title">Industry Experience</p>
