@@ -86,7 +86,7 @@ nav_order: 1
     <p class="timeline-date">Nov 2023 – Present</p>
   </div>
   <p class="timeline-sub">Responsible Computing Group, Max Planck Institute for Security and Privacy · Supervisor: <a href="https://asiabiega.github.io/">Asia Biega</a></p>
-  <p class="timeline-relevance">Research: ownership and governance frameworks in GenAI systems, using HCI methods.</p>
+  <p class="timeline-relevance">Research: ownership and governance frameworks in GenAI systems.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -95,9 +95,8 @@ nav_order: 1
     <p class="timeline-title">MA, Public Policy and Governance — Azim Premji University</p>
     <p class="timeline-date">Jul 2019 – Nov 2021</p>
   </div>
-  <p class="timeline-sub"> Thesis: <em>To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles</em> Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false">Dr. Sitharamam Kakarala</a> </p>
+  <p class="timeline-sub"> Thesis: <em>To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles. </em> Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false"> Dr. Sitharamam Kakarala</a> </p>
   <p class="timeline-modules">Relevant modules: Technology and Human Rights (Law, Policy, and Ethics) · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
-  <p class="timeline-relevance">First formal training in research design and causal methods — the methodological backbone I now bring to HCI research.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -106,9 +105,9 @@ nav_order: 1
     <p class="timeline-title">LLB — Pune University</p>
     <p class="timeline-date">Jun 2013 – Apr 2016</p>
   </div>
-  <p class="timeline-sub">Enrolled, Bar Council of Maharashtra &amp; Goa</p>
   <p class="timeline-modules">Relevant modules: Law of Contracts · Jurisprudence · Legal Writing · Drafting, Pleading, and Conveyancing</p>
   <p class="timeline-relevance">Volunteer project at the National AIDS Research Institute (transcribing interviews on willingness to share Aadhaar with healthcare providers) was my first direct encounter with privacy and consent as a lived, not just doctrinal, problem.</p>
+  <p class="timeline-sub">Enrolled in the Bar Council of Maharashtra &amp; Goa</p>
 </div>
 
 <div class="timeline-item">
@@ -117,9 +116,8 @@ nav_order: 1
     <p class="timeline-title">BSc, Computer Science — Pune University</p>
     <p class="timeline-date">Jun 2009 – Apr 2012</p>
   </div>
-  <p class="timeline-sub">1st place, X-Pro 2012 — location-based service application</p>
   <p class="timeline-modules">Relevant modules: Introduction to Programming · Programming in C, C++, and Java · Statistical Methods</p>
-  <p class="timeline-relevance">The technical foundation that's letting me return to hands-on systems research now, a decade later.</p>
+   <p class="timeline-sub">1st place, X-Pro 2012 — location-based service application</p>
 </div>
 
 <p class="timeline-section-title">Industry Experience</p>
@@ -138,8 +136,8 @@ nav_order: 1
     <p class="timeline-title">Senior Project Consultant — Ernst &amp; Young LLP</p>
     <p class="timeline-date">Jan – Jun 2023</p>
   </div>
-  <p class="timeline-sub">Subject matter expert on gig work, Employment Working Group, G20 Summit 2023; co-drafted outcome documents and supported delegate negotiations.</p>
-  <p class="timeline-relevance">Direct exposure to how AI/platform governance questions get negotiated into actual multilateral policy text — not just debated in the abstract.</p>
+  <p class="timeline-sub">Worked as a subject matter expert on gig work in the Employment Working Group at the G20 Summit 2023; co-drafted outcome documents and supported delegate negotiations.</p>
+  <p class="timeline-relevance"> Gained direct exposure to how platform governance questions get negotiated into actual multilateral policy text.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -149,7 +147,7 @@ nav_order: 1
     <p class="timeline-date">Jul 2021 – Jan 2023</p>
   </div>
   <p class="timeline-sub">Analyzed 120+ stakeholder interviews across the platform economy; co-authored the Fairwork Y3/Y4 India reports; vetted worker agreements with Swiggy, Zomato, UC, and Flipkart.</p>
-  <p class="timeline-relevance">My first large-scale qualitative interview study — the same semi-structured interview and thematic analysis methods I now use in HCI research.</p>
+  <p class="timeline-relevance"> Used semi-structured interviews and thematic analysis methods to conduct a large-scale qualitative interview study.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -159,7 +157,7 @@ nav_order: 1
     <p class="timeline-date">Jun 2021 – Jun 2022</p>
   </div>
   <p class="timeline-sub">Mixed-methods research on STI diplomacy and AI in foreign ministry operations, using conceptual modeling, Twitter text analysis, and R for data visualization.</p>
-  <p class="timeline-relevance">First hands-on computational analysis work — directly technical skills I still use.</p>
+  <p class="timeline-relevance">Applied conceptual modeling and text analysis to foreign policy data.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -169,7 +167,7 @@ nav_order: 1
     <p class="timeline-date">Jul – Sep 2020</p>
   </div>
   <p class="timeline-sub">Drafted a police training manual on gender-based violence, implemented across 200+ police stations in Bihar, as part of an RCT testing the efficacy of a novel police program.</p>
-  <p class="timeline-relevance">A policy document that moved directly from draft to real-world implementation at scale — early proof that research can change practice, not just inform it.</p>
+  <p class="timeline-relevance">Drafted a policy document that moved directly to real-world implementation at scale.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -198,7 +196,7 @@ nav_order: 1
     <p class="timeline-date">Dec 2016 – Dec 2018</p>
   </div>
   <p class="timeline-sub">Managed 150+ client portfolio across trademark prosecution and industrial design; drafted and negotiated 100+ commercial contracts, including privacy policies. Awarded Remarkable Record of Performance (Q2/Q3 2018).</p>
-  <p class="timeline-relevance">Years of hands-on IP prosecution are the direct practitioner grounding behind my current research on ownership frameworks in generative AI.</p>
+  <p class="timeline-relevance">Built years of hands-on IP prosecution experience, now grounding current research on ownership frameworks in AI ecosystems.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -226,7 +224,7 @@ nav_order: 1
     <p class="timeline-date">May 2012 – Aug 2013</p>
   </div>
   <p class="timeline-sub">Data quality audits for marketing teams (pre-launch and post-publication). Spot reward for excellence, Q1 2013.</p>
-  <p class="timeline-relevance">My first job doing systematic data evaluation — a habit of rigor that still shows up in how I handle research data today.</p>
+  <p class="timeline-relevance">Built early habits of data rigor through systematic data evaluation.</p>
 </div>
 
 [Download CV (PDF)](/assets/pdf/CV.pdf)
