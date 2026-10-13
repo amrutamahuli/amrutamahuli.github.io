@@ -5,7 +5,7 @@ title: service & teaching
 nav: true
 nav_order: 3
 ---
-
+{% include site-colors.html %}
 ## Teaching
 
 **Teaching Assistant**, *Privacy, Data Governance, and Usability* (MSc) — Ruhr University Bochum, Faculty of Computer Science · Winter 2025–26
