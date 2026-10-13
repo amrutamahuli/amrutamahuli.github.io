@@ -4,7 +4,7 @@ publications:
     venue: "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
     type: "Conference Proceeding"
     year: 2025
-    - title: "Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review"
+  - title: "Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review"
     authors: "Lin Kyi, <strong>Amruta Mahuli</strong>, Asia J. Biega"
     venue: "2nd Workshop on Generative AI and Law (GenLaw '24), ICML"
     type: "Workshop Paper"
