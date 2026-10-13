@@ -170,7 +170,7 @@ html[data-theme="dark"] {
   </div>
   <div class="cred-box">
     <p class="cred-title">Research</p>
-    <p class="cred-desc">PhD, GenAI ownership (HCI)</p>
+    <p class="cred-desc">PhD, GenAI ownership (HCI), qualitative methods</p>
   </div>
   <div class="cred-box">
     <p class="cred-title">Law</p>
