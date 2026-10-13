@@ -23,11 +23,15 @@ social: true
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
   margin: 1.5rem 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 .cred-box {
   background: #DCE5D6;
   border-radius: 8px;
   padding: 12px;
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 .cred-title {
   font-size: 13px;
