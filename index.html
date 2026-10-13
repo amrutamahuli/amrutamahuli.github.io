@@ -30,7 +30,34 @@ html[data-theme="dark"] {
   opacity: 1;
 }
 </style> <style>
- 
+ @media (max-width: 600px) {
+  .post {
+    padding: 1.25rem !important;
+  }
+  .post-title {
+    font-size: 1.5rem !important;
+  }
+  .post .desc {
+    font-size: 0.85rem !important;
+  }
+  blockquote.tagline {
+    font-size: 0.95rem !important;
+    padding-left: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 8px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}
 .post {
   position: relative;
 }
