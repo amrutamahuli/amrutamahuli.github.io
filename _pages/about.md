@@ -18,7 +18,30 @@ social: true
 ---
 {% include site-colors.html %}
 <style>
- @media (max-width: 600px) {
+.cred-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 1.5rem 0;
+}
+.cred-box {
+  background: #DCE5D6;
+  border-radius: 8px;
+  padding: 12px;
+}
+.cred-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: #2E3A28;
+}
+.cred-desc {
+  font-size: 11px;
+  margin: 0;
+  color: #46542E;
+}
+
+@media (max-width: 600px) {
   .post {
     padding: 1.25rem !important;
   }
@@ -32,18 +55,24 @@ social: true
     font-size: 0.95rem !important;
     padding-left: 0.75rem;
   }
+  .cred-title {
+    font-size: 12.5px;
+  }
+  .cred-desc {
+    font-size: 10.5px;
+  }
 }
 
 @media (max-width: 480px) {
-  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
-    grid-template-columns: 1fr 1fr !important;
-    gap: 8px !important;
+  .cred-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
   }
 }
 
 @media (max-width: 360px) {
-  div[style*="grid-template-columns: 1.3fr 1fr 1fr 1fr"] {
-    grid-template-columns: 1fr !important;
+  .cred-grid {
+    grid-template-columns: 1fr;
   }
 }
 .post {
@@ -128,24 +157,24 @@ html[data-theme="dark"] {
 }
 </style>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 1.5rem 0;">
-  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
-  <p style="font-size: 13px; font-weight: 600; margin: 0 0 4px; color: #2E3A28;">Background</p>
-  <p style="font-size: 11px; margin: 0; color: #46542E;">BSc (Computer Science)</p>
-  <p style="font-size: 11px; margin: 0; color: #46542E;">LLB</p>
-  <p style="font-size: 11px; margin: 0; color: #46542E;">MA (Public Policy and Governance)</p>
-</div>
-  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Research</p>
-    <p style="font-size: 11px; margin: 0; color: #46542E;">PhD, GenAI ownership (HCI)</p>
+<div class="cred-grid">
+  <div class="cred-box">
+    <p class="cred-title">Background</p>
+    <p class="cred-desc">BSc (Computer Science)</p>
+    <p class="cred-desc">LLB</p>
+    <p class="cred-desc">MA (Public Policy and Governance)</p>
   </div>
-  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Law</p>
-    <p style="font-size: 11px; margin: 0; color: #46542E;">150+ clients, IP prosecution</p>
+  <div class="cred-box">
+    <p class="cred-title">Research</p>
+    <p class="cred-desc">PhD, GenAI ownership (HCI)</p>
   </div>
-  <div style="background: #DCE5D6; border-radius: 8px; padding: 12px;">
-    <p style="font-size: 13px; font-weight: 600; margin: 0 0 2px; color: #2E3A28;">Policy</p>
-    <p style="font-size: 11px; margin: 0; color: #46542E;">G20 (MoLE), Parliament</p>
+  <div class="cred-box">
+    <p class="cred-title">Law</p>
+    <p class="cred-desc">150+ clients, IP prosecution</p>
+  </div>
+  <div class="cred-box">
+    <p class="cred-title">Policy</p>
+    <p class="cred-desc">G20 (MoLE), Parliament</p>
   </div>
 </div>
 I study ownership and governance in generative AI systems, using human-computer interaction methods to understand how these systems are used, contested, and governed in practice. I am supervised by [Asia Biega](https://asiabiega.github.io/) in the Responsible Computing group at MPI-SP.
