@@ -16,7 +16,7 @@ news: true
 selected_papers: false
 social: true
 ---
-
+{% include site-colors.html %}
 <style>
  
 .post {
