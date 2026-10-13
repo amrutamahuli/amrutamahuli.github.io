@@ -91,7 +91,8 @@ nav_order: 2
 <div class="contrib-card">
   <div>
     <p class="contrib-title">{{ item.title }}</p>
-    <p class="contrib-venue">{{ item.venue }}</p>
+    <p class="contrib-venue">{{ item.authors }}</p>
+    <p class="contrib-venue"><em>{{ item.venue }}</em></p>
   </div>
   <span class="contrib-tag tag-pub">{{ item.type }} &middot; {{ item.year }}</span>
 </div>
