@@ -5,6 +5,59 @@
 html[data-theme="dark"] {
   --global-bg-color: #FAF9F5;
 }
+
+  .contrib-section-title {
+  font-family: Georgia, serif;
+  font-size: 1.2rem;
+  color: #2E3A28;
+  margin: 1.5rem 0 0.9rem;
+  border-bottom: 1px solid #E3DED0;
+  padding-bottom: 0.4rem;
+}
+.contrib-card {
+  background: #FFFFFF;
+  border: 1px solid #E3DED0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}
+.contrib-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin: 0 0 2px;
+  color: #2E3A28;
+}
+.contrib-venue {
+  font-size: 11.5px;
+  color: #6B7560;
+  margin: 0;
+}
+.contrib-tag {
+  font-size: 10px;
+  padding: 3px 8px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+@media (max-width: 575px) {
+  .contrib-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .contrib-tag {
+    align-self: flex-start;
+  }
+  .contrib-title {
+    font-size: 13px;
+  }
+  .contrib-venue {
+    font-size: 11px;
+  }
+}
 .post {
   background: #FAF9F5;
   border: 1px solid #E3DED0;
