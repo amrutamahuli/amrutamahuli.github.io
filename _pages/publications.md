@@ -7,6 +7,8 @@ nav_order: 2
 ---
 {% include site-colors.html %}
 <style>
+.tag-pub { background: #EAF2E4; color: #3F4A38; }
+  
 .publications h2 {
   font-family: Georgia, serif;
   font-size: 1.2rem;
@@ -84,9 +86,16 @@ nav_order: 2
 </style>
 
 <p class="contrib-section-title">Academic Publications</p>
-<div class="publications">
-{% bibliography %}
+{% assign sorted_pubs = site.data.contributions.publications | sort: 'year' | reverse %}
+{% for item in sorted_pubs %}
+<div class="contrib-card">
+  <div>
+    <p class="contrib-title">{{ item.title }}</p>
+    <p class="contrib-venue">{{ item.venue }}</p>
+  </div>
+  <span class="contrib-tag tag-pub">{{ item.type }} &middot; {{ item.year }}</span>
 </div>
+{% endfor %}
 
 <p class="contrib-section-title">Talks &amp; Panels</p>
 {% assign sorted_talks = site.data.contributions.talks | sort: 'year' | reverse %}
