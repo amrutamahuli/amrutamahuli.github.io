@@ -5,7 +5,7 @@ title: education & experience
 nav: true
 nav_order: 1
 ---
-
+{% include site-colors.html %}
 <style>
 .timeline-section-title {
   font-family: Georgia, serif;
