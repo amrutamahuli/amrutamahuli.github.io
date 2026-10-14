@@ -5,12 +5,12 @@ publications:
     type: "Conference Proceeding"
     year: 2025
   - title: "Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review"
-    authors: "Lin Kyi, <strong>Amruta Mahuli</strong>, Asia J. Biega"
+    authors: "<strong>Amruta Mahuli</strong>, Lin Kyi, Asia J. Biega"
     venue: "2nd Workshop on Generative AI and Law (GenLaw '24), ICML"
     type: "Workshop Paper"
     year: 2024
   - title: "Unlocking Fair Use in the Generative AI Supply Chain: A Systematized Literature Review"
-    authors: "Lin Kyi, <strong>Amruta Mahuli</strong>, Asia J. Biega"
+    authors: "<strong>Amruta Mahuli</strong>, Lin Kyi, Asia J. Biega"
     venue: "Mapping and Governing the Online World (MGOW) Workshop"
     type: "Workshop Paper"
     year: 2024
@@ -106,7 +106,7 @@ service:
     
 teaching:
   - title: "Teaching Assistant, Technology and Public Interest (MSc)"
-    venue: "Ruhr University Bochum, Faculty of Computer Science · Winter 2026–27"
+    venue: "Ruhr University Bochum, Faculty of Computer Science · Upcoming Winter 2026–27"
     type: "Teaching"
     year: 2026
   - title: "Teaching Assistant, Privacy, Data Governance, and Usability (MSc)"
