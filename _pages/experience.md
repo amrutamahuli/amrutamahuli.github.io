@@ -87,7 +87,7 @@ nav_order: 1
     <p class="timeline-date">Nov 2023 – Present</p>
   </div>
   <p class="timeline-sub">Responsible Computing Group, Max Planck Institute for Security and Privacy · Supervisor: <a href="https://asiabiega.github.io/">Asia Biega</a></p>
-  <p class="timeline-sub"> Research: Ownership and governance frameworks in GenAI systems.</p>
+  <p class="timeline-sub"> Research: Understanding ownership frameworks in GenAI systems.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -97,7 +97,7 @@ nav_order: 1
     <p class="timeline-date">Jul 2019 – Nov 2021</p>
   </div>
   <p class="timeline-sub"> Thesis:  To Consent or Not to Consent: Analyzing the Account Aggregator (AA) Ecosystem Using Puttaswamy Principles. Supervisor: <a href="https://www.linkedin.com/in/sitharamam-kakarala-829a4b35/?isSelfProfile=false"> Dr. Sitharamam Kakarala</a> </p>
-  <p class="timeline-modules"> Relevant modules: Technology and Human Rights (Law, Policy, and Ethics) · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
+  <p class="timeline-modules"> Relevant modules: Technology and Human Rights · Law, Policy, and Ethics · Anthropology of Capital and Mass Media · State, Market, and Economy · Data, Research Design, and Descriptive Methods · Causal and Inferential Methods</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -106,7 +106,7 @@ nav_order: 1
     <p class="timeline-title">LLB — Pune University</p>
     <p class="timeline-date">Jun 2013 – Apr 2016</p>
   </div>
-  <p class="timeline-modules">Relevant modules: Law of Contracts · Jurisprudence · Legal Writing · Drafting, Pleading, and Conveyancing</p>
+  <p class="timeline-modules">Relevant modules: Intellectual Property Law · Law of Contracts · Jurisprudence · Constitutional law  Legal Writing · Drafting, Pleading, and Conveyancing </p>
   <p class="timeline-sub"> Volunteer project: Transcribing interviews on willingness to share Aadhaar with healthcare providers at the National AIDS Research Institute </p>
   <p class="timeline-sub">Enrolled in the Bar Council of Maharashtra &amp; Goa</p>
 </div>
@@ -137,7 +137,7 @@ nav_order: 1
     <p class="timeline-title">Senior Project Consultant — Ernst &amp; Young LLP</p>
     <p class="timeline-date">Jan – Jun 2023</p>
   </div>
-  <p class="timeline-sub">Worked as a subject matter expert on gig work in the Employment Working Group at the G20 Summit 2023; co-drafted outcome documents and supported delegate negotiations.</p>
+  <p class="timeline-sub">Worked as a subject matter expert on gig work in the Employment Working Group at the G20 Summit 2023; co-drafted outcome policy documents and supported delegate negotiations.</p>
   <p class="timeline-relevance"> Gained direct exposure to how platform governance questions get negotiated into actual multilateral policy text. </p>
 </div>
 
@@ -157,7 +157,7 @@ nav_order: 1
     <p class="timeline-title">Consultant Policy Researcher — DST Centre for Policy Research, IISc</p>
     <p class="timeline-date">Jun 2021 – Jun 2022</p>
   </div>
-  <p class="timeline-sub">Mixed-methods research on STI diplomacy and AI in foreign ministry operations, using conceptual modeling, Twitter text analysis, and R for data visualization.</p>
+  <p class="timeline-sub">Mixed-methods research on science, technology, and innovation (STI) diplomacy and AI in foreign ministry operations, using conceptual modeling, Twitter text analysis, and R for data visualization.</p>
   <p class="timeline-relevance">Applied conceptual modeling and text analysis to foreign policy data.</p>
 </div>
 
@@ -167,8 +167,8 @@ nav_order: 1
     <p class="timeline-title">Research Intern — LEAD at Krea University</p>
     <p class="timeline-date">Jul – Sep 2020</p>
   </div>
-  <p class="timeline-sub">Drafted a police training manual on gender-based violence, implemented across 200+ police stations in Bihar, as part of an RCT testing the efficacy of a novel police program.</p>
-  <p class="timeline-relevance">Drafted a policy document that moved directly to real-world implementation at scale.</p>
+  <p class="timeline-sub">Drafted a police training manual on gender-based violence, implemented across 200+ police stations in Bihar, as part of an RCT that was testing the efficacy of a novel police program.</p>
+  <p class="timeline-relevance"> Drafted a training manual that had real-world implementation at scale.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -177,8 +177,8 @@ nav_order: 1
     <p class="timeline-title">Research Intern — Centre for Internet and Society</p>
     <p class="timeline-date">Sep 2019 – Sep 2020</p>
   </div>
-  <p class="timeline-sub">Conducted and analyzed interviews with platform executives to draft a structured observational guide covering 50+ platforms' business models and adherence to labor laws for women domestic and care workers.</p>
-  <p class="timeline-relevance">Early experience in executive-level qualitative interviewing and structured comparative analysis across platforms.</p>
+  <p class="timeline-sub"> Conducted and analyzed interviews with women domestic and care workers, as well as platform executives in Bangalore, to draft a structured observational guide covering the business models of 50+ online platforms and their adherence to labour laws.</p>
+  <p class="timeline-relevance">Early experience in qualitative interviewing and structured comparative analysis.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -187,7 +187,7 @@ nav_order: 1
     <p class="timeline-title">Legal Associate — Inttl Advocare</p>
     <p class="timeline-date">Dec 2018 – Jun 2019</p>
   </div>
-  <p class="timeline-sub">Managed the Trademark Prosecution department at the Mumbai branch, handling a collective IP portfolio of 50+ clients; assisted in civil litigation, litigation drafting, caveat filings, and due diligence.</p>
+  <p class="timeline-sub">Managed the Trademark Prosecution department, handling a collective IP portfolio of 50+ clients; assisted in civil litigation, litigation drafting, caveat filings, and due diligence.</p>
 </div>
 
 <div class="timeline-item has-line">
@@ -196,7 +196,8 @@ nav_order: 1
     <p class="timeline-title">Legal Associate — Khurana and Khurana, Advocates and IP Attorneys</p>
     <p class="timeline-date">Dec 2016 – Dec 2018</p>
   </div>
-  <p class="timeline-sub">Managed 150+ client portfolio across trademark prosecution and industrial design; drafted and negotiated 100+ commercial contracts, including privacy policies. Awarded Remarkable Record of Performance (Q2/Q3 2018).</p>
+  <p class="timeline-sub">Managed 150+ client portfolio across trademark prosecution and industrial design; drafted and negotiated 100+ commercial contracts, including privacy policies. </p>
+  <p class="timeline-sub"> Awarded Remarkable Record of Performance (Q2/Q3 2018).</p>
   <p class="timeline-relevance">Built years of hands-on IP prosecution experience, now grounding current research on ownership frameworks in AI ecosystems.</p>
 </div>
 
@@ -215,7 +216,7 @@ nav_order: 1
     <p class="timeline-title">Intern — Legalance</p>
     <p class="timeline-date">Jun 2014 – May 2015</p>
   </div>
-  <p class="timeline-sub">Drafted and vetted commercial agreements, legal notices, and MoUs; supported litigation drafting; researched Intellectual Property, Criminal, Contract, and Tort law.</p>
+  <p class="timeline-sub">Drafted and vetted commercial agreements, legal notices, and MoUs; supported litigation drafting. </p>
 </div>
 
 <div class="timeline-item">
@@ -224,8 +225,8 @@ nav_order: 1
     <p class="timeline-title">Analyst — Eclerx Services Limited</p>
     <p class="timeline-date">May 2012 – Aug 2013</p>
   </div>
-  <p class="timeline-sub">Data quality audits for marketing teams (pre-launch and post-publication). Spot reward for excellence, Q1 2013.</p>
-  <p class="timeline-relevance">Built early habits of data rigor through systematic data evaluation.</p>
+  <p class="timeline-sub"> Data quality audits for marketing teams (pre-launch and post-publication). </p>
+  <p class="timeline-sub"> Spot reward for excellence, Q1 2013.</p>
 </div>
 
 [Download CV (PDF)](/assets/pdf/CV.pdf)
