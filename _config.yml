@@ -5,7 +5,7 @@
 title: Amruta Mahuli
 first_name: Amruta
 middle_name: U.
-last_name: Mahul
+last_name: Mahuli
 contact_note: Connect
 description: >
   PhD researcher studying ownership and governance in generative AI systems, with a background in law, technology policy, and HCI.
@@ -119,7 +119,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
   # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-  google: <meta name="google-site-verification" content="ZsYH5mfp9Y7iNSAvZ9oZuADGXMRFG-w41OfDKup5ASk" /># your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+  google:
   cronitor: # cronitor RUM analytics site ID (format: XXXXXXXXX)
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -127,7 +127,7 @@ analytics:
 enable_simple_analytics: false # Simple Analytics identifies a site by its domain, so it has no ID to set above
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: ZsYH5mfp9Y7iNSAvZ9oZuADGXMRFG-w41OfDKup5ASk # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
